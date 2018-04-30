@@ -231,8 +231,7 @@ return anfang==null;	}
 					ende = backupZeiger;
 					backupZeiger = null;
 				}
-
-
+//test
 			}
 			backupZeiger = zeiger;
 			zeiger = zeiger.naechster;
